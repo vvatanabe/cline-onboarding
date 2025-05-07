@@ -1,0 +1,31 @@
+# Common system junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Editor / IDE settings
+.vscode/
+.idea/
+*.sw?
+
+# Marp build artifacts
+*.pdf
+*.html
+
+# Temporary files / backups
+*.tmp
+*.bak
+*.backup
+*~
+*.orig
+
+# OS‑specific trash (macOS)
+.Spotlight-V100
+.Trashes
+
+# Cline / MCP local settings
+cline_mcp_settings.json
+.env
+.env.*
