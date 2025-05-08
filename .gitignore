@@ -12,7 +12,6 @@ Desktop.ini
 
 # Marp build artifacts
 *.pdf
-*.html
 
 # Temporary files / backups
 *.tmp
